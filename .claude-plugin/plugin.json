@@ -1,0 +1,24 @@
+{
+  "name": "humanic",
+  "displayName": "Humanic",
+  "version": "1.0.0",
+  "description": "Plan, draft, review, and analyze AI-powered email marketing campaigns and cohorts in Humanic. Includes a guided workflow that never sends real emails without explicit confirmation.",
+  "author": {
+    "name": "Humanic",
+    "url": "https://humanic.ai"
+  },
+  "homepage": "https://humanic.ai",
+  "license": "MIT",
+  "keywords": ["email", "email-marketing", "campaigns", "cohorts", "analytics", "mcp"]
+
+
+
+
+
+
+
+
+
+
+
+
