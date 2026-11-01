@@ -1,6 +1,6 @@
 # Humanic Plugin Support
 
-- Email: TODO (add the team support address)
+- Email: support@humanic.ai
 - Docs: https://docs.humanic.ai
 - Issues with the MCP connection (sign-in, tools not loading): email us with your client (Cursor, Claude, ChatGPT, etc.) and the time it happened.
 
