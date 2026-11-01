@@ -9,7 +9,49 @@
   "homepage": "https://humanic.ai",
   "license": "MIT",
   "keywords": ["email", "email-marketing", "campaigns", "cohorts", "analytics", "mcp"],
-  "skills":
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Humanic",
+    "shortDescription": "Email campaigns and cohorts",
+    "longDescription": "Connect to your Humanic organization to inspect cohorts, draft email campaigns, review content and sender settings, and read campaign analytics. Drafting is always safe: campaigns are only activated, which sends real emails, after you explicitly confirm. Humanic only accesses the organization behind the account you sign in with.",
+    "developerName": "Humanic",
+    "category": "Productivity",
+    "capabilities": ["Read campaigns", "Read cohorts", "Draft campaigns", "Read analytics"],
+    "websiteURL": "https://humanic.ai",
+    "supportURL": "https://docs.humanic.ai",
+    "privacyPolicyURL": "https://humanic.ai/privacy",
+    "termsOfServiceURL": "https://humanic.ai/terms",
+    "defaultPrompt": [
+      "Show my Humanic organization and available cohorts.",
+      "Draft a campaign for one of my cohorts and let me review it.",
+      "Summarize analytics for my most recent campaign."
+    ],
+    "composerIcon": "./assets/icon-512.png",
+    "logo": "./assets/icon-512.png"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
