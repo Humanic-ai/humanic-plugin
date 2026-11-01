@@ -8,15 +8,9 @@
   "homepage": "https://humanic.ai",
   "license": "MIT",
   "keywords": ["email", "email-marketing", "campaigns", "cohorts", "analytics", "mcp"],
-  "logo": "assets/logo.svg",
-  "skills": "./s
-
-
-
-
-
-
-
-
+  "logo": "assets/icon-512.png",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
 
 
