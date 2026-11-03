@@ -6,6 +6,7 @@
     "name": "Humanic"
   },
   "homepage": "https://humanic.ai",
+  "repository": "https://github.com/Humanic-ai/humanic-plugin",
   "license": "MIT",
   "keywords": ["email", "email-marketing", "campaigns", "cohorts", "analytics", "mcp"],
   "logo": "assets/icon-512.png",
