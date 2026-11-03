@@ -8,17 +8,12 @@
     "url": "https://humanic.ai"
   },
   "homepage": "https://humanic.ai",
+  "repository": "https://github.com/Humanic-ai/humanic-plugin",
   "license": "MIT",
-  "keywords": ["email", "email-marketing", "campaigns", "cohorts", "analytics", "mcp"]
-
-
-
-
-
-
-
-
-
-
-
-
+  "keywords": ["email", "email-marketing", "campaigns", "cohorts", "analytics", "mcp"],
+  "icon": "./assets/icon-512.png",
+  "documentationUrl": "https://docs.humanic.ai",
+  "supportUrl": "https://github.com/Humanic-ai/humanic-plugin/blob/main/SUPPORT.md",
+  "privacyPolicyUrl": "https://humanic.ai/privacy",
+  "termsOfServiceUrl": "https://humanic.ai/terms"
+}
