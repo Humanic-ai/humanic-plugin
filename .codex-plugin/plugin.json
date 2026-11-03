@@ -7,6 +7,7 @@
     "url": "https://humanic.ai"
   },
   "homepage": "https://humanic.ai",
+  "repository": "https://github.com/Humanic-ai/humanic-plugin",
   "license": "MIT",
   "keywords": ["email", "email-marketing", "campaigns", "cohorts", "analytics", "mcp"],
   "skills": "./skills/",
